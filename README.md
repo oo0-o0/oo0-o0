@@ -1,4 +1,4 @@
-[English Here](/README-EN.md)
+**🌐[EN-Here](/README-EN.md)**
 
 # 🌼 🇵🇹-🇧🇷 Oii, eu sou Érika Liz!
 
