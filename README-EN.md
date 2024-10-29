@@ -34,6 +34,8 @@
 
   ### 📫 **Let’s Connect!**  
   I’m always open to new connections and collaborative projects. Let’s learn and create something amazing together!
+ <br>
+  📞 [in/erikaxxliz](www.linkedin.com/in/erikaxxliz)
 
 </div>
 
