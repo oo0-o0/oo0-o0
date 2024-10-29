@@ -14,9 +14,9 @@
 <div>
 
   ### 🌟 About Me
-  - 🎓 Completing a Technical Degree in Informatics.
-  - 🎂 18 years old.
-  - 💡 Always seeking new knowledge to transform ideas into valuable projects.
+  - Completing a Technical Degree in Informatics.
+  - 18 years old.
+  - Always seeking new knowledge to transform ideas into valuable projects.
 
 </div>
 
@@ -25,8 +25,8 @@
   ### 🌎 Languages and Tools
   - **Learning**: HTML, CSS, JavaScript, PHP, SQL, Java, Python, C, and C++.
   - **Databases**: MySQL.
-  - **Design Tools**: Figma, Basic Photoshop, Canva.
-  - **Interested in**: React, Ruby, Laravel, C#, Adobe Illustrator, Sketch.
+  - **Design Tools**: Figma, Basic Photoshop and Canva.
+  - **Interested in**: React, Ruby, Laravel, C#, Adobe Illustrator and Sketch.
 
 </div>
 
