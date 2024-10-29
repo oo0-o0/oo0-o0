@@ -14,9 +14,9 @@
 <div>
 
   ### 🌟 Sobre mim
-  - 🎓 Concluindo o Técnico de Informática.
-  - 🎂 18 anos.
-  - 💡 Sempre em busca de novos conhecimentos para transformar ideias em projetos de valor.
+  - Concluindo o Técnico de Informática.
+  - 18 anos.
+  - Sempre em busca de novos conhecimentos para transformar ideias em projetos de valor.
 
 </div>
 
@@ -25,8 +25,8 @@
   ### 🌎 Linguagens e Ferramentas
   - **Aprendendo**: HTML, CSS, JavaScript, PHP, SQL, Java, Python, C e C++.
   - **Banco de Dados**: MySQL. 
-  - **Ferramentas de Design**: Figma, Photoshop Básico, Canva.
-  - **Interesses**: React, Ruby, Laravel, C#, Adobe Illustrator, Sketch.
+  - **Ferramentas de Design**: Figma, Photoshop Básico e Canva.
+  - **Interesses**: React, Ruby, Laravel, C#, Adobe Illustrator e Sketch.
 
 </div>
 
