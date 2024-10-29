@@ -33,7 +33,9 @@
 <div> 
 
   ### 📫 **Vamos conversar?**  
-  Estou sempre aberta a novas conexões e projetos colaborativos. Vamos juntos aprender e criar algo incrível!
+  Estou sempre aberta a novas conexões e projetos colaborativos. Vamos juntos aprender e criar algo incrível! 
+  <br>
+  📞 [in/erikaxxliz](www.linkedin.com/in/erikaxxliz)
 
 </div>
 
