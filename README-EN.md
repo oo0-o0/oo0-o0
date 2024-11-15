@@ -4,7 +4,7 @@
 
 <div>
 
-  I’m a Computer Science student at **CEFET-MG** and a technology enthusiast. My personal goal is to transform concepts into visually captivating and functional experiences, creating solutions that merge innovation and impact.
+  I’m a Computer Science student at **CEFET-MG**. My personal goal is to transform concepts into visually captivating and functional experiences, creating solutions that merge innovation and impact.
   
   ✨ **Passionate about continuous learning and bringing ideas to life with beauty and purpose**  
   🔍 **Interests**: Databases, Web Development, Design, and Interactive Solution Development.
