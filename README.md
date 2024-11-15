@@ -4,7 +4,7 @@
 
 <div> 
 
-  Sou estudante de Informática no **CEFET-MG** e entusiasta da tecnologia. Tenho como objetivo pessoal transformar conceitos em experiências visuais atraentes e funcionais, criando   soluções que unem inovação e impacto.
+  Sou uma estudante de Informática no **CEFET-MG**. Tenho como objetivo pessoal transformar conceitos em experiências visuais atraentes e funcionais, criando   soluções que unem inovação e impacto.
   
   ✨ **Apaixonada por aprendizado contínuo e por dar vida a ideias com beleza e propósito**  
   🔍 **Interesses**: Banco de Dados, Programação para Web, Design e Desenvolvimento de Soluções Interativas.
